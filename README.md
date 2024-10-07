@@ -2,4 +2,3 @@
 - 👀 I’m interested in Database Design, Data Science, and software development
 - 🌱 I’m currently learning Python & Spring
 - 💞️ I’m looking to collaborate on Java & Python projects
-- 📫 How to reach me: email me at dakotavaughn5592@gmail.com
